@@ -1,0 +1,65 @@
+h3 {
+  color: rgba(12, 150, 37, 0.91);
+  font-family: impact;
+
+}
+
+body {
+  background-color: rgba(204, 240, 60, 0.269);
+
+}
+
+label{
+  color: rgba(216, 27, 27, 0.549);
+
+}
+
+#titleLabel {
+  color: rgba(11, 34, 207, 0.549);
+
+}
+
+#ratingLabel {
+  color: rgba(6, 88, 17, 0.858);
+
+}
+
+#fileLabel {
+  color: rgba(88, 6, 84, 0.934);
+
+}
+
+.name {
+  background-color: #32f010a6;
+
+}
+   
+.costing {
+  background-color: rgb(140, 213, 207);
+
+}
+  
+.measurement {
+  background-color: rgb(213, 196, 213);
+
+}
+
+.hr {
+  color: rgb(17, 17, 196);
+
+}
+  
+.LOink {
+  color: rgb(9, 202, 6);
+
+}
+  
+#button {
+  color: rgb(255, 0, 0);
+
+}
+
+
+
+
+
