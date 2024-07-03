@@ -11,7 +11,7 @@ function reqListener() {
 function preload() {
   let req = new XMLHttpRequest();
   req.addEventListener("load" , reqListener);
-  req.open("GET" , " http://192.168.16.83:8080/abdullah/")
+  req.open("GET" , " /pseudoserver/")
   req.responseType="json";
   req.send();
 }
